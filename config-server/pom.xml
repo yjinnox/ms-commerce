@@ -15,7 +15,7 @@
 	<description>Projet de configuration des fichiers de configuration de nos micro services</description>
 	<properties>
 		<java.version>1.8</java.version>
-		<spring-cloud.version>2020.0.2</spring-cloud.version>
+		<spring-cloud.version>Finchley.M8</spring-cloud.version>
 	</properties>
 	<dependencies>
 		<dependency>

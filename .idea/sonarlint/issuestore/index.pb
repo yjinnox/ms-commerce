@@ -47,18 +47,8 @@ y
 Imicroservice-paiement/src/main/java/com/mpaiement/beans/CommandeBean.java,a\b\abbaf6aaf7cccd6d93e91487bffdeaa9c525c6e6
 M
 microservice-paiement/pom.xml,e\c\ecf7adc5ad9643ae9d89dad751d5f394077cc896
-d
-4config-server-repo/microservice-commandes.properties,0\2\02673b11f27a3b7d943674bf84d2bbc1161232cc
-c
-3config-server-repo/microservice-clientui.properties,e\d\edfe1c387472d678144a8c473703d6f521f94d87
-c
-3config-server-repo/microservice-paiement.properties,2\a\2ae380449a2bb41ad432d628037731c360e389c2
 |
 Lmicroservice-paiement/src/main/java/com/mpaiement/proxies/CommandeProxy.java,2\d\2d8de2084bfbc25c266df6bed0615da18dec3cab
-c
-3config-server-repo/microservice-produits.properties,d\5\d58311e74be86d9b5e8a6895d2f4a2307d45c2b8
-Y
-)config-server-repo/config-server-repo.iml,4\9\49f511ad59c67126399f1f7162668cee2ca266cd
 {
 Kmicroservice-produits/src/main/java/com/mproduits/MproduitsApplication.java,c\8\c81db75f787144bb5434ac88768fcfea800a0c34
 y
@@ -67,3 +57,7 @@ M
 microservice-produits/pom.xml,c\c\ccde294c04f101b563cc6d9f6d9a6d02da064069
 E
 config-server/pom.xml,a\2\a2f9618c8ad821b143a07a29a9805fcb0b2df470
+N
+microservice-commandes/pom.xml,c\8\c848ee106c6377eb890dbee10c2eafb921859c7c
+t
+Dmicroservice-produits/src/main/java/com/mproduits/model/Product.java,5\0\5099a888e8ba2f1c1c0088b0ad1ab7775c23047c

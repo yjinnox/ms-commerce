@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/clientui/pom.xml" />
         <option value="$PROJECT_DIR$/../micoservices/config-server-repo/pom.xml" />
         <option value="$PROJECT_DIR$/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../config-server-repo/pom.xml" />
       </list>
     </option>
   </component>
