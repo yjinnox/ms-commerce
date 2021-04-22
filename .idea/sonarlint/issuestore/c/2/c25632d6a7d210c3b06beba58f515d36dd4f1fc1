@@ -1,5 +1,11 @@
 
+\
+java:S3655)":Call "commandeReq.isPresent()" before accessing the value.(™ÑÛ¶üÿÿÿÿ8 š«Ë/
 t
 java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿ¤÷ûÿÿÿÿ
+a
+java:S2583#"DChange this condition so that it does not always evaluate to "false"(‚üŒÅ8 š«Ë/
 M
 java:S11351"2Complete the task associated to this TODO comment.(×¼½ëùÿÿÿÿ
+]
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(Ñµÿ8 š«Ë/

@@ -71,3 +71,21 @@ u
 Emicroservice-produits/src/main/java/com/mproduits/dao/ProductDao.java,b\b\bb1502db1f456f28ac18270c2ed315014338f09b
 ˆ
 Xconfig-server/src/test/java/com/mcommerce/configserver/ConfigServerApplicationTests.java,1\0\10e02d6e2d0482d87b7e503642dca1d0118422e3
+z
+Jclientui/src/test/java/com/msclient/clientui/ClientuiApplicationTests.java,a\7\a7af3ffe0509c1fb95c60854a413d42ef3857e25
+|
+Lclientui/src/main/java/com/msclient/exceptions/ProductNotFoundException.java,2\e\2ec0e25200fdaae3532dd3ab5decf3147f73d6ae
+E
+eureka-server/pom.xml,b\3\b39ae52d769ea03b699b5602439afd875433c8a7
+P
+ microservice-clientui.properties,3\f\3f1993c7825572e6e35798c80e7c8a52a47451d9
+Q
+!microservice-commandes.properties,4\f\4f355e2397727ad54e1952bad0ebbdb4810a896c
+P
+ microservice-paiement.properties,8\b\8bb041417c05ae7f677c57078e9af61d2c9993de
+P
+ microservice-produits.properties,d\f\df09d852d05e8757f2773658ea426c80f2bf1d1b
+H
+eureka-server.properties,1\b\1bdb78024fd388d341fd1a7dd262464be97859ab
+ƒ
+Seureka-server/src/main/java/com/mcommerce/eurekaserver/EurekaServerApplication.java,b\5\b58bea1177e3757fc1f08bc97d81d4ee0ac22ee6
