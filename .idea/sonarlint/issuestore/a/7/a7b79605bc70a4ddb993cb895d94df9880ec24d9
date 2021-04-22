@@ -1,7 +1,7 @@
 
-V
-java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ÙÒ†
 o
 java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÇÕÊÖ
-_
-java:S2583"DChange this condition so that it does not always evaluate to "false"(ùÿªšøÿÿÿÿ
+f
+java:S2583"DChange this condition so that it does not always evaluate to "false"(ùÿªšøÿÿÿÿ8¨Ëç¦/
+]
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ÙÒ†8¨Ëç¦/

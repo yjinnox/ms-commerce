@@ -9,9 +9,15 @@ public class CustomErrorDecoder implements ErrorDecoder {
 
     @Override
     public Exception decode(String invoqueur, Response response)  {
+
         if(response.status() == 400 ) {
             return new ProductBadRequestException(
                     "Requête incorrecte"
+            );
+        }
+        else if (response.status() == 404 ) {
+            return new ProductNotFoundException(
+                    "Produit non trouvé "
             );
         }
         else if(response.status() > 400 && response.status() <=499 ) {

@@ -1,13 +1,13 @@
 <component name="libraryTable">
-  <library name="Maven: io.netty:netty-codec:4.1.60.Final">
+  <library name="Maven: org.springframework:spring-aspects:5.0.4.RELEASE">
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-codec/4.1.60.Final/netty-codec-4.1.60.Final.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aspects/5.0.4.RELEASE/spring-aspects-5.0.4.RELEASE.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-codec/4.1.60.Final/netty-codec-4.1.60.Final-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aspects/5.0.4.RELEASE/spring-aspects-5.0.4.RELEASE-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-codec/4.1.60.Final/netty-codec-4.1.60.Final-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aspects/5.0.4.RELEASE/spring-aspects-5.0.4.RELEASE-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

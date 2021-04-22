@@ -61,3 +61,13 @@ N
 microservice-commandes/pom.xml,c\8\c848ee106c6377eb890dbee10c2eafb921859c7c
 t
 Dmicroservice-produits/src/main/java/com/mproduits/model/Product.java,5\0\5099a888e8ba2f1c1c0088b0ad1ab7775c23047c
+{
+Kmicroservice-paiement/src/main/java/com/mpaiement/MpaiementApplication.java,6\9\6976a83c156feb184a0326fd2486c5a0976e6c1e
+v
+Fmicroservice-paiement/src/main/java/com/mpaiement/dao/PaiementDao.java,8\3\83169da2b095a50bcbaa9557fb162cfc8118413e
+y
+Imicroservice-commandes/src/main/java/com/mcommandes/dao/CommandesDao.java,b\3\b39b885c00ef616027bc8e8fe603442dda71fc45
+u
+Emicroservice-produits/src/main/java/com/mproduits/dao/ProductDao.java,b\b\bb1502db1f456f28ac18270c2ed315014338f09b
+ˆ
+Xconfig-server/src/test/java/com/mcommerce/configserver/ConfigServerApplicationTests.java,1\0\10e02d6e2d0482d87b7e503642dca1d0118422e3
