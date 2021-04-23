@@ -1,22 +1,14 @@
 
-@
-clientui/pom.xml,4\4\448d00999117b10b95d6708d142a41ad53c90a20
 ‡
 Wmicroservice-produits/src/main/java/com/mproduits/web/controller/ProductController.java,b\4\b4fd447f1ae8f2c328452bdadac187af16b4164d
-l
-<clientui/src/main/java/com/msclient/ClientuiApplication.java,8\4\844eafe8b6c72a10a2399caaeca8ce51dad1301f
 j
 :clientui/src/main/java/com/msclient/beans/ProductBean.java,6\e\6e4447b2431176cbece54fb78b016b52fff29515
-t
-Dclientui/src/main/java/com/msclient/config/FeignExceptionConfig.java,9\4\9400b124e277a1c23fe514a58adee2cc3442c0c3
 Ž
 ^microservice-produits/src/main/java/com/mproduits/web/exceptions/ProductNotFoundException.java,3\3\335cb1eb1bfcef7577701d9158eab37b669211d2
 k
 ;clientui/src/main/java/com/msclient/beans/PaiementBean.java,f\3\f31a31a3955498878300573ef86b38fe7eaddee5
 k
 ;clientui/src/main/java/com/msclient/beans/CommandeBean.java,f\c\fcce5210e82f08cccd9ba48dc7b6170ef97810f6
-~
-Nmicroservice-commandes/src/main/java/com/mcommandes/McommandesApplication.java,1\d\1de0583143dca85446d069d7bc56cfaa484d2981
 
 _microservice-paiement/src/main/java/com/mpaiement/web/exceptions/PaiementExistantException.java,a\9\a9b5de93f651033774565235acc339d9f48198f1
 ‘
@@ -37,8 +29,6 @@ n
 Nclientui/src/main/java/com/msclient/exceptions/ProductBadRequestException.java,4\b\4b67f593e5e07e7a96defed4cf800bb56e93ce22
 w
 Gclientui/src/main/java/com/msclient/exceptions/Product4XXException.java,f\6\f6ad66dcc6d7a7cdfffb3e5ca3a0a172b0c3f9a2
-v
-Fclientui/src/main/java/com/msclient/exceptions/CustomErrorDecoder.java,9\f\9fa975eb063b7048ef5cc1f1dc0f1c2c93d21013
 w
 Gmicroservice-commandes/src/main/java/com/mcommandes/model/Commande.java,6\b\6bfd4e597c1966edef3cbb93a15c05a22ab41bd5
 
@@ -51,8 +41,6 @@ M
 Lmicroservice-paiement/src/main/java/com/mpaiement/proxies/CommandeProxy.java,2\d\2d8de2084bfbc25c266df6bed0615da18dec3cab
 {
 Kmicroservice-produits/src/main/java/com/mproduits/MproduitsApplication.java,c\8\c81db75f787144bb5434ac88768fcfea800a0c34
-y
-Iconfig-server/src/main/java/com/configserver/ConfigServerApplication.java,4\3\43356033958f622d6ff2f707687ec2e9d4c8bff6
 M
 microservice-produits/pom.xml,c\c\ccde294c04f101b563cc6d9f6d9a6d02da064069
 E
@@ -77,5 +65,11 @@ Jclientui/src/test/java/com/msclient/clientui/ClientuiApplicationTests.java,a\7
 Lclientui/src/main/java/com/msclient/exceptions/ProductNotFoundException.java,2\e\2ec0e25200fdaae3532dd3ab5decf3147f73d6ae
 E
 eureka-server/pom.xml,b\3\b39ae52d769ea03b699b5602439afd875433c8a7
-ƒ
-Seureka-server/src/main/java/com/mcommerce/eurekaserver/EurekaServerApplication.java,b\5\b58bea1177e3757fc1f08bc97d81d4ee0ac22ee6
+ˆ
+Xeureka-server/src/test/java/com/mcommerce/eurekaserver/EurekaServerApplicationTests.java,6\1\610091c7a8b701f79c1bf4607ac6f797593292d3
+v
+Fclientui/src/main/java/com/msclient/exceptions/CustomErrorDecoder.java,9\f\9fa975eb063b7048ef5cc1f1dc0f1c2c93d21013
+t
+Dclientui/src/main/java/com/msclient/config/FeignExceptionConfig.java,9\4\9400b124e277a1c23fe514a58adee2cc3442c0c3
+y
+Iconfig-server/src/main/java/com/configserver/ConfigServerApplication.java,4\3\43356033958f622d6ff2f707687ec2e9d4c8bff6

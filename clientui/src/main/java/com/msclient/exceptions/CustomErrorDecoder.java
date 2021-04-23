@@ -1,5 +1,6 @@
 package com.msclient.exceptions;
 
+
 import feign.Response;
 import feign.codec.ErrorDecoder;
 
@@ -8,8 +9,7 @@ public class CustomErrorDecoder implements ErrorDecoder {
     private final ErrorDecoder defaultErrorDecoder = new Default();
 
     @Override
-    public Exception decode(String invoqueur, Response response)  {
-
+    public Exception decode(String s, Response response) {
         if(response.status() == 400 ) {
             return new ProductBadRequestException(
                     "Requête incorrecte"
@@ -25,6 +25,6 @@ public class CustomErrorDecoder implements ErrorDecoder {
                     "Erreur de au format 4XX "
             );
         }
-        return defaultErrorDecoder.decode(invoqueur, response);
+        return defaultErrorDecoder.decode(s, response);
     }
 }
